@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T05:42:05.542Z",
+  "updatedAt": "2026-10-13T05:42:46.436Z",
   "problems": [
     {
       "frontendId": "141",
@@ -104,6 +104,26 @@
           "path": "0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.java",
           "sha": "2f8242e6a2db01c923c60e4bf8bcbafdc8922ff5",
           "lastSyncedAt": "2026-10-13T05:42:05.542Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "905",
+      "title": "Sort Array By Parity",
+      "slug": "sort-array-by-parity",
+      "problemName": "0905-sort-array-by-parity",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity/",
+      "folderPath": "0905-sort-array-by-parity/",
+      "readmePath": "0905-sort-array-by-parity/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0905-sort-array-by-parity.java",
+          "path": "0905-sort-array-by-parity/0905-sort-array-by-parity.java",
+          "sha": "41caf3311a7d68d93d1303115683f149a67b4448",
+          "lastSyncedAt": "2026-10-13T05:42:46.436Z"
         }
       ]
     },
