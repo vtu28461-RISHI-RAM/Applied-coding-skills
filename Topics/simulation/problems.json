@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-13T05:40:12.757Z",
+  "updatedAt": "2026-10-13T05:42:11.829Z",
   "problems": [
     {
       "frontendId": "735",
@@ -64,6 +64,26 @@
           "path": "1603-design-parking-system/1603-design-parking-system.java",
           "sha": "3625cb174512995d1644084e30674fa87a88f93a",
           "lastSyncedAt": "2026-10-13T05:36:34.465Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1920",
+      "title": "Build Array from Permutation",
+      "slug": "build-array-from-permutation",
+      "problemName": "1920-build-array-from-permutation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/build-array-from-permutation/",
+      "folderPath": "1920-build-array-from-permutation/",
+      "readmePath": "1920-build-array-from-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1920-build-array-from-permutation.java",
+          "path": "1920-build-array-from-permutation/1920-build-array-from-permutation.java",
+          "sha": "7d6eb0ff19b3ab3a8fc1f88ce60d395437de6852",
+          "lastSyncedAt": "2026-10-13T05:42:11.829Z"
         }
       ]
     }
