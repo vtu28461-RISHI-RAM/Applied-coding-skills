@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-13T05:44:44.904Z",
+  "updatedAt": "2026-10-13T05:44:53.105Z",
   "problems": [
     {
       "frontendId": "100",
@@ -83,7 +83,7 @@
           "filename": "0112-path-sum.java",
           "path": "0112-path-sum/0112-path-sum.java",
           "sha": "84eed436174f110cc9e46d500ebf3fc75eead2d3",
-          "lastSyncedAt": "2026-10-13T05:35:38.548Z"
+          "lastSyncedAt": "2026-10-13T05:44:53.105Z"
         }
       ]
     },
