@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-13T05:38:14.623Z",
+  "updatedAt": "2026-10-13T05:44:36.294Z",
   "problems": [
     {
       "frontendId": "100",
@@ -83,7 +83,7 @@
           "filename": "0104-maximum-depth-of-binary-tree.java",
           "path": "0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.java",
           "sha": "8cdc6b769f7af377512f3e2db79b84d777ac528f",
-          "lastSyncedAt": "2026-10-13T05:35:04.706Z"
+          "lastSyncedAt": "2026-10-13T05:44:36.294Z"
         }
       ]
     },
