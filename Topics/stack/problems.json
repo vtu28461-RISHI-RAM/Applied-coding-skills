@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-13T05:47:36.489Z",
+  "updatedAt": "2026-10-13T05:47:50.196Z",
   "problems": [
     {
       "frontendId": "20",
@@ -243,7 +243,7 @@
           "filename": "1475-final-prices-with-a-special-discount-in-a-shop.java",
           "path": "1475-final-prices-with-a-special-discount-in-a-shop/1475-final-prices-with-a-special-discount-in-a-shop.java",
           "sha": "0f95836bebca08551075ba03ed47ca81cf04ee27",
-          "lastSyncedAt": "2026-10-13T05:41:00.887Z"
+          "lastSyncedAt": "2026-10-13T05:47:50.196Z"
         }
       ]
     }
