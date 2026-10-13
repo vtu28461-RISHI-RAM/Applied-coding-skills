@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-10-13T05:41:10.298Z",
+  "updatedAt": "2026-10-13T05:41:21.659Z",
   "problems": [
     {
       "frontendId": "496",
@@ -24,6 +24,26 @@
           "path": "0496-next-greater-element-i/0496-next-greater-element-i.java",
           "sha": "b7ddd6fed56e1ae983ed48e29856fd1236274ddf",
           "lastSyncedAt": "2026-10-13T05:41:10.298Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "739",
+      "title": "Daily Temperatures",
+      "slug": "daily-temperatures",
+      "problemName": "0739-daily-temperatures",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/daily-temperatures/",
+      "folderPath": "0739-daily-temperatures/",
+      "readmePath": "0739-daily-temperatures/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0739-daily-temperatures.java",
+          "path": "0739-daily-temperatures/0739-daily-temperatures.java",
+          "sha": "551beeefa36cc7f7863cf86757fceefc2389227a",
+          "lastSyncedAt": "2026-10-13T05:41:21.659Z"
         }
       ]
     },
