@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-13T05:40:39.479Z",
+  "updatedAt": "2026-10-13T05:47:36.489Z",
   "problems": [
     {
       "frontendId": "20",
@@ -23,7 +23,7 @@
           "filename": "0020-valid-parentheses.cpp",
           "path": "0020-valid-parentheses/0020-valid-parentheses.cpp",
           "sha": "6ec86f620cda99a95baa24bca9a9035d7d7a837f",
-          "lastSyncedAt": "2026-10-13T05:40:39.479Z"
+          "lastSyncedAt": "2026-10-13T05:47:36.489Z"
         }
       ]
     }
