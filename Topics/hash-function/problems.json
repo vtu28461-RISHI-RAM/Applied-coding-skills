@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-function",
+    "name": "Hash Function",
+    "tagId": "61065"
+  },
+  "updatedAt": "2026-10-13T05:38:49.640Z",
+  "problems": [
+    {
+      "frontendId": "705",
+      "title": "Design HashSet",
+      "slug": "design-hashset",
+      "problemName": "0705-design-hashset",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/design-hashset/",
+      "folderPath": "0705-design-hashset/",
+      "readmePath": "0705-design-hashset/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0705-design-hashset.java",
+          "path": "0705-design-hashset/0705-design-hashset.java",
+          "sha": "5e682a7e313b0b320b026a0562b4d32d962125c3",
+          "lastSyncedAt": "2026-10-13T05:38:49.640Z"
+        }
+      ]
+    }
+  ]
+}
