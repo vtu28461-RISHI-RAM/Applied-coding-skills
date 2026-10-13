@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-13T05:39:49.628Z",
+  "updatedAt": "2026-10-13T05:39:58.941Z",
   "problems": [
     {
       "frontendId": "232",
@@ -44,6 +44,26 @@
           "path": "0901-online-stock-span/0901-online-stock-span.java",
           "sha": "5941e5132ba299e33017015eed36e7ffd3ced68b",
           "lastSyncedAt": "2026-10-13T05:39:35.703Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "946",
+      "title": "Validate Stack Sequences",
+      "slug": "validate-stack-sequences",
+      "problemName": "0946-validate-stack-sequences",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/validate-stack-sequences/",
+      "folderPath": "0946-validate-stack-sequences/",
+      "readmePath": "0946-validate-stack-sequences/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0946-validate-stack-sequences.java",
+          "path": "0946-validate-stack-sequences/0946-validate-stack-sequences.java",
+          "sha": "94df4295c796c9937c416a0bec5347c14663f6fc",
+          "lastSyncedAt": "2026-10-13T05:39:58.941Z"
         }
       ]
     },
