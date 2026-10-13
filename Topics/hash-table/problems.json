@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-table",
+    "name": "Hash Table",
+    "tagId": "6"
+  },
+  "updatedAt": "2026-10-13T05:36:19.522Z",
+  "problems": [
+    {
+      "frontendId": "1396",
+      "title": "Design Underground System",
+      "slug": "design-underground-system",
+      "problemName": "1396-design-underground-system",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/design-underground-system/",
+      "folderPath": "1396-design-underground-system/",
+      "readmePath": "1396-design-underground-system/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1396-design-underground-system.java",
+          "path": "1396-design-underground-system/1396-design-underground-system.java",
+          "sha": "1c80edb122a76fc77edeb15be535781b2a8ea359",
+          "lastSyncedAt": "2026-10-13T05:36:19.522Z"
+        }
+      ]
+    }
+  ]
+}
