@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-13T05:37:19.736Z",
+  "updatedAt": "2026-10-13T05:38:49.640Z",
   "problems": [
     {
       "frontendId": "141",
@@ -44,6 +44,26 @@
           "path": "0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.java",
           "sha": "fd62e02213337c7b7a4e4510a8d57e5e15c3edca",
           "lastSyncedAt": "2026-10-13T05:37:02.125Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "705",
+      "title": "Design HashSet",
+      "slug": "design-hashset",
+      "problemName": "0705-design-hashset",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/design-hashset/",
+      "folderPath": "0705-design-hashset/",
+      "readmePath": "0705-design-hashset/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0705-design-hashset.java",
+          "path": "0705-design-hashset/0705-design-hashset.java",
+          "sha": "5e682a7e313b0b320b026a0562b4d32d962125c3",
+          "lastSyncedAt": "2026-10-13T05:38:49.640Z"
         }
       ]
     }
