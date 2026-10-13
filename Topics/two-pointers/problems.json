@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T05:49:55.160Z",
+  "updatedAt": "2026-10-13T05:50:07.852Z",
   "problems": [
     {
       "frontendId": "5",
@@ -144,6 +144,26 @@
           "path": "0344-reverse-string/0344-reverse-string.java",
           "sha": "09da790f56c1e87e866dd4017527a5bd62914501",
           "lastSyncedAt": "2026-10-13T05:49:02.369Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "633",
+      "title": "Sum of Square Numbers",
+      "slug": "sum-of-square-numbers",
+      "problemName": "0633-sum-of-square-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-square-numbers/",
+      "folderPath": "0633-sum-of-square-numbers/",
+      "readmePath": "0633-sum-of-square-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0633-sum-of-square-numbers.java",
+          "path": "0633-sum-of-square-numbers/0633-sum-of-square-numbers.java",
+          "sha": "871d40e195f4e622dc690ee84454e670ef0759fd",
+          "lastSyncedAt": "2026-10-13T05:50:07.852Z"
         }
       ]
     },
