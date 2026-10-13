@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-13T05:48:23.122Z",
+  "updatedAt": "2026-10-13T05:50:17.521Z",
   "problems": [
     {
       "frontendId": "25",
@@ -24,6 +24,26 @@
           "path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.java",
           "sha": "48324d46263cedb75a8b829430084ce8d2262d35",
           "lastSyncedAt": "2026-10-13T05:48:10.018Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "60",
+      "title": "Permutation Sequence",
+      "slug": "permutation-sequence",
+      "problemName": "0060-permutation-sequence",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/permutation-sequence/",
+      "folderPath": "0060-permutation-sequence/",
+      "readmePath": "0060-permutation-sequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0060-permutation-sequence.java",
+          "path": "0060-permutation-sequence/0060-permutation-sequence.java",
+          "sha": "bce0a950bb00e185adc63fbe9d03d54b6b1cb75e",
+          "lastSyncedAt": "2026-10-13T05:50:17.521Z"
         }
       ]
     },
