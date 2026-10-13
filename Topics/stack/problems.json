@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-13T05:40:12.757Z",
+  "updatedAt": "2026-10-13T05:40:22.487Z",
   "problems": [
     {
       "frontendId": "232",
@@ -84,6 +84,26 @@
           "path": "0946-validate-stack-sequences/0946-validate-stack-sequences.java",
           "sha": "94df4295c796c9937c416a0bec5347c14663f6fc",
           "lastSyncedAt": "2026-10-13T05:39:58.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1249",
+      "title": "Minimum Remove to Make Valid Parentheses",
+      "slug": "minimum-remove-to-make-valid-parentheses",
+      "problemName": "1249-minimum-remove-to-make-valid-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/",
+      "folderPath": "1249-minimum-remove-to-make-valid-parentheses/",
+      "readmePath": "1249-minimum-remove-to-make-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1249-minimum-remove-to-make-valid-parentheses.cpp",
+          "path": "1249-minimum-remove-to-make-valid-parentheses/1249-minimum-remove-to-make-valid-parentheses.cpp",
+          "sha": "f4bcb0d82ad4ddbb391bf1a134ec4349c52b3b78",
+          "lastSyncedAt": "2026-10-13T05:40:22.487Z"
         }
       ]
     },
