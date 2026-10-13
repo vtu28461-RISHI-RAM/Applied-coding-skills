@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:49:21.885Z",
+  "updatedAt": "2026-10-13T05:49:26.641Z",
   "problems": [
     {
       "frontendId": "75",
@@ -323,7 +323,7 @@
           "filename": "1685-sum-of-absolute-differences-in-a-sorted-array.java",
           "path": "1685-sum-of-absolute-differences-in-a-sorted-array/1685-sum-of-absolute-differences-in-a-sorted-array.java",
           "sha": "64c91c965994841325fb7d0017955f86ba75d115",
-          "lastSyncedAt": "2026-10-13T05:43:40.395Z"
+          "lastSyncedAt": "2026-10-13T05:49:26.641Z"
         }
       ]
     },
