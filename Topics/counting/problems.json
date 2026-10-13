@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "counting",
+    "name": "Counting",
+    "tagId": "61062"
+  },
+  "updatedAt": "2026-10-13T05:36:34.465Z",
+  "problems": [
+    {
+      "frontendId": "1603",
+      "title": "Design Parking System",
+      "slug": "design-parking-system",
+      "problemName": "1603-design-parking-system",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/design-parking-system/",
+      "folderPath": "1603-design-parking-system/",
+      "readmePath": "1603-design-parking-system/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1603-design-parking-system.java",
+          "path": "1603-design-parking-system/1603-design-parking-system.java",
+          "sha": "3625cb174512995d1644084e30674fa87a88f93a",
+          "lastSyncedAt": "2026-10-13T05:36:34.465Z"
+        }
+      ]
+    }
+  ]
+}
