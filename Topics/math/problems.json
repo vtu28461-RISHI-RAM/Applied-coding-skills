@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T05:49:26.641Z",
+  "updatedAt": "2026-10-13T05:49:34.824Z",
   "problems": [
+    {
+      "frontendId": "7",
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "problemName": "0007-reverse-integer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
+      "folderPath": "0007-reverse-integer/",
+      "readmePath": "0007-reverse-integer/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0007-reverse-integer.py",
+          "path": "0007-reverse-integer/0007-reverse-integer.py",
+          "sha": "92e65c9461fe16873fbdd379b4d08116d17c52f9",
+          "lastSyncedAt": "2026-10-13T05:49:34.824Z"
+        }
+      ]
+    },
     {
       "frontendId": "69",
       "title": "Sqrt(x)",
