@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-13T05:35:24.423Z",
+  "updatedAt": "2026-10-13T05:35:38.548Z",
   "problems": [
     {
       "frontendId": "104",
@@ -24,6 +24,26 @@
           "path": "0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.java",
           "sha": "8cdc6b769f7af377512f3e2db79b84d777ac528f",
           "lastSyncedAt": "2026-10-13T05:35:04.706Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "112",
+      "title": "Path Sum",
+      "slug": "path-sum",
+      "problemName": "0112-path-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/path-sum/",
+      "folderPath": "0112-path-sum/",
+      "readmePath": "0112-path-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0112-path-sum.java",
+          "path": "0112-path-sum/0112-path-sum.java",
+          "sha": "84eed436174f110cc9e46d500ebf3fc75eead2d3",
+          "lastSyncedAt": "2026-10-13T05:35:38.548Z"
         }
       ]
     },
