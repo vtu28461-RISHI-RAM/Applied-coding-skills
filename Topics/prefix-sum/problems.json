@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-13T05:43:40.395Z",
+  "updatedAt": "2026-10-13T05:48:40.436Z",
   "problems": [
     {
       "frontendId": "724",
@@ -23,7 +23,7 @@
           "filename": "0724-find-pivot-index.java",
           "path": "0724-find-pivot-index/0724-find-pivot-index.java",
           "sha": "96de8198cf253f28c85dd2edbd4a4c761bc2f258",
-          "lastSyncedAt": "2026-10-13T05:42:19.609Z"
+          "lastSyncedAt": "2026-10-13T05:48:40.436Z"
         }
       ]
     },
