@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T05:42:46.436Z",
+  "updatedAt": "2026-10-13T05:42:57.287Z",
   "problems": [
     {
       "frontendId": "141",
@@ -84,6 +84,26 @@
           "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.java",
           "sha": "50066bac712af3542a8dd022c80e2c42367f6621",
           "lastSyncedAt": "2026-10-13T05:41:54.554Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "344",
+      "title": "Reverse String",
+      "slug": "reverse-string",
+      "problemName": "0344-reverse-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
+      "folderPath": "0344-reverse-string/",
+      "readmePath": "0344-reverse-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0344-reverse-string.java",
+          "path": "0344-reverse-string/0344-reverse-string.java",
+          "sha": "09da790f56c1e87e866dd4017527a5bd62914501",
+          "lastSyncedAt": "2026-10-13T05:42:57.287Z"
         }
       ]
     },
