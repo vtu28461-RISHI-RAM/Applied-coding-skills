@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-13T05:38:14.623Z",
+  "updatedAt": "2026-10-13T05:39:24.586Z",
   "problems": [
     {
       "frontendId": "100",
@@ -144,6 +144,26 @@
           "path": "0199-binary-tree-right-side-view/0199-binary-tree-right-side-view.java",
           "sha": "9bc698f97b32d52af36a79f271d79375da29f667",
           "lastSyncedAt": "2026-10-13T05:37:31.152Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1600",
+      "title": "Throne Inheritance",
+      "slug": "throne-inheritance",
+      "problemName": "1600-throne-inheritance",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/throne-inheritance/",
+      "folderPath": "1600-throne-inheritance/",
+      "readmePath": "1600-throne-inheritance/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1600-throne-inheritance.java",
+          "path": "1600-throne-inheritance/1600-throne-inheritance.java",
+          "sha": "7cbe87a04cd74cd5a57cca3f2a093b9a0611c8cd",
+          "lastSyncedAt": "2026-10-13T05:39:24.586Z"
         }
       ]
     }
