@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T05:49:11.915Z",
+  "updatedAt": "2026-10-13T05:49:55.160Z",
   "problems": [
+    {
+      "frontendId": "5",
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "problemName": "0005-longest-palindromic-substring",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "folderPath": "0005-longest-palindromic-substring/",
+      "readmePath": "0005-longest-palindromic-substring/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0005-longest-palindromic-substring.py",
+          "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.py",
+          "sha": "8202535344a056d9f0fd6094fc28c14e913cbaef",
+          "lastSyncedAt": "2026-10-13T05:49:55.160Z"
+        }
+      ]
+    },
     {
       "frontendId": "75",
       "title": "Sort Colors",
