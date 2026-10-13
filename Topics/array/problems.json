@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:42:46.436Z",
+  "updatedAt": "2026-10-13T05:43:05.275Z",
   "problems": [
+    {
+      "frontendId": "121",
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "problemName": "0121-best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "folderPath": "0121-best-time-to-buy-and-sell-stock/",
+      "readmePath": "0121-best-time-to-buy-and-sell-stock/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0121-best-time-to-buy-and-sell-stock.java",
+          "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.java",
+          "sha": "9e9b9c15a48d4147e7c1e08ea00fc2bc3907db21",
+          "lastSyncedAt": "2026-10-13T05:43:05.275Z"
+        }
+      ]
+    },
     {
       "frontendId": "239",
       "title": "Sliding Window Maximum",
