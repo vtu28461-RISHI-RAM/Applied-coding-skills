@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T05:40:51.357Z",
+  "updatedAt": "2026-10-13T05:41:10.298Z",
   "problems": [
     {
       "frontendId": "141",
@@ -64,6 +64,26 @@
           "path": "0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.cpp",
           "sha": "3bff5f2c08b160980b66458e299e17d8c2893142",
           "lastSyncedAt": "2026-10-13T05:40:51.357Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "496",
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "problemName": "0496-next-greater-element-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
+      "folderPath": "0496-next-greater-element-i/",
+      "readmePath": "0496-next-greater-element-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0496-next-greater-element-i.java",
+          "path": "0496-next-greater-element-i/0496-next-greater-element-i.java",
+          "sha": "b7ddd6fed56e1ae983ed48e29856fd1236274ddf",
+          "lastSyncedAt": "2026-10-13T05:41:10.298Z"
         }
       ]
     },
