@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-10-13T05:39:24.586Z",
+  "updatedAt": "2026-10-13T05:39:35.703Z",
   "problems": [
     {
       "frontendId": "705",
@@ -24,6 +24,26 @@
           "path": "0705-design-hashset/0705-design-hashset.java",
           "sha": "5e682a7e313b0b320b026a0562b4d32d962125c3",
           "lastSyncedAt": "2026-10-13T05:38:49.640Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "901",
+      "title": "Online Stock Span",
+      "slug": "online-stock-span",
+      "problemName": "0901-online-stock-span",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/online-stock-span/",
+      "folderPath": "0901-online-stock-span/",
+      "readmePath": "0901-online-stock-span/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0901-online-stock-span.java",
+          "path": "0901-online-stock-span/0901-online-stock-span.java",
+          "sha": "5941e5132ba299e33017015eed36e7ffd3ced68b",
+          "lastSyncedAt": "2026-10-13T05:39:35.703Z"
         }
       ]
     },
