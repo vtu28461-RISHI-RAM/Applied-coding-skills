@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-10-13T05:46:31.845Z",
+  "updatedAt": "2026-10-13T05:46:42.570Z",
   "problems": [
     {
       "frontendId": "155",
@@ -123,7 +123,7 @@
           "filename": "1472-design-browser-history.java",
           "path": "1472-design-browser-history/1472-design-browser-history.java",
           "sha": "34c9c7f75d9dcda53992e3f286fa16411b4997f9",
-          "lastSyncedAt": "2026-10-13T05:39:04.574Z"
+          "lastSyncedAt": "2026-10-13T05:46:42.570Z"
         }
       ]
     },
