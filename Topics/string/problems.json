@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:36:19.522Z",
+  "updatedAt": "2026-10-13T05:40:22.487Z",
   "problems": [
+    {
+      "frontendId": "1249",
+      "title": "Minimum Remove to Make Valid Parentheses",
+      "slug": "minimum-remove-to-make-valid-parentheses",
+      "problemName": "1249-minimum-remove-to-make-valid-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/",
+      "folderPath": "1249-minimum-remove-to-make-valid-parentheses/",
+      "readmePath": "1249-minimum-remove-to-make-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1249-minimum-remove-to-make-valid-parentheses.cpp",
+          "path": "1249-minimum-remove-to-make-valid-parentheses/1249-minimum-remove-to-make-valid-parentheses.cpp",
+          "sha": "f4bcb0d82ad4ddbb391bf1a134ec4349c52b3b78",
+          "lastSyncedAt": "2026-10-13T05:40:22.487Z"
+        }
+      ]
+    },
     {
       "frontendId": "1396",
       "title": "Design Underground System",
