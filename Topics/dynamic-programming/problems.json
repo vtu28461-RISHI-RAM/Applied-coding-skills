@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T05:43:05.275Z",
+  "updatedAt": "2026-10-13T05:49:07.450Z",
   "problems": [
     {
       "frontendId": "121",
@@ -23,7 +23,7 @@
           "filename": "0121-best-time-to-buy-and-sell-stock.java",
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.java",
           "sha": "9e9b9c15a48d4147e7c1e08ea00fc2bc3907db21",
-          "lastSyncedAt": "2026-10-13T05:43:05.275Z"
+          "lastSyncedAt": "2026-10-13T05:49:07.450Z"
         }
       ]
     }
