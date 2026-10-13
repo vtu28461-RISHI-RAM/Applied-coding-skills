@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:49:02.369Z",
+  "updatedAt": "2026-10-13T05:49:50.271Z",
   "problems": [
+    {
+      "frontendId": "6",
+      "title": "Zigzag Conversion",
+      "slug": "zigzag-conversion",
+      "problemName": "0006-zigzag-conversion",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/zigzag-conversion/",
+      "folderPath": "0006-zigzag-conversion/",
+      "readmePath": "0006-zigzag-conversion/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0006-zigzag-conversion.py",
+          "path": "0006-zigzag-conversion/0006-zigzag-conversion.py",
+          "sha": "82eb50a997b6be95c1b96e3549ab4c7a2a4256de",
+          "lastSyncedAt": "2026-10-13T05:49:50.271Z"
+        }
+      ]
+    },
     {
       "frontendId": "20",
       "title": "Valid Parentheses",
