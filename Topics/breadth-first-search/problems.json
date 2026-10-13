@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-13T05:46:03.138Z",
+  "updatedAt": "2026-10-13T05:46:12.352Z",
   "problems": [
     {
       "frontendId": "100",
@@ -63,7 +63,7 @@
           "filename": "0102-binary-tree-level-order-traversal.java",
           "path": "0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.java",
           "sha": "a1883ddf6551c5de6ecb73aeed6c6f0cf23e1324",
-          "lastSyncedAt": "2026-10-13T05:38:14.623Z"
+          "lastSyncedAt": "2026-10-13T05:46:12.352Z"
         }
       ]
     },
