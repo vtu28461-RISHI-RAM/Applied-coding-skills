@@ -5,8 +5,28 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-13T05:40:29.958Z",
+  "updatedAt": "2026-10-13T05:41:30.557Z",
   "problems": [
+    {
+      "frontendId": "25",
+      "title": "Reverse Nodes in k-Group",
+      "slug": "reverse-nodes-in-k-group",
+      "problemName": "0025-reverse-nodes-in-k-group",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+      "folderPath": "0025-reverse-nodes-in-k-group/",
+      "readmePath": "0025-reverse-nodes-in-k-group/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0025-reverse-nodes-in-k-group.java",
+          "path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.java",
+          "sha": "48324d46263cedb75a8b829430084ce8d2262d35",
+          "lastSyncedAt": "2026-10-13T05:41:30.557Z"
+        }
+      ]
+    },
     {
       "frontendId": "206",
       "title": "Reverse Linked List",
